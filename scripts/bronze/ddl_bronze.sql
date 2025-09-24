@@ -1,3 +1,11 @@
+/*
+DDL Script: Create Bronze Tables
+=============================================================================
+Script Purpose:
+Run this to refine to re_define the DDL structure of 'bronze' Tables
+=============================================================================
+*/
+
 create database DataWareHouse;
 
 create schema bronze;
